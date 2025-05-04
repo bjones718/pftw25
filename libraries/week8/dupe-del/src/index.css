@@ -1,0 +1,5 @@
+html {
+    box-sizing: border-box;
+    background: rgb(16,0,36);
+    background: linear-gradient(90deg, rgba(16,0,36,1) 0%, rgba(87,9,121,1) 36%, rgba(185,0,255,1) 100%);
+  } 
