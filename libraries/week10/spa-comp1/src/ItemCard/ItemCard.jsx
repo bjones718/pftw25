@@ -21,7 +21,7 @@ export default function ItemCard({
         <div className="artistAltCard">
        
                  <div className="cardTitle">
-                    <Link to={'${id}'}>{artist}</Link>
+                    <Link to={`${id}`}>{artist}</Link>
                     </div>
                   <div className="cardImg>"> 
                      <img src={image} alt={artist} />
@@ -66,6 +66,7 @@ ItemCard.propTypes = {
     image: PropTypes.string,
     id: PropTypes.string,
     duplicateFn: PropTypes.func,
-    deleteFn: PropTypes.func
+    deleteFn: PropTypes.func,
+    moreAboutTheArtist: PropTypes.string
 
 }

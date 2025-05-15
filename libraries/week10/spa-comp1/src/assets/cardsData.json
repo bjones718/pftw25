@@ -1,0 +1,86 @@
+[
+    {
+        "artist": "Toro Y Moi",
+        "colors": [
+            "black",
+            "blueviolet",
+            "white"
+        ],
+        "yearsActive": "2010-current",
+        "alternativeGenre": "Synth Pop, Alt-Funk, chill-wave, Indie pop",
+        "mostNotableAlbum": "Anything In Return (2013)",
+        "aboutTheArtist": "It's not easy to pin down Toro y Moi and Chaz Bundick. Since he first started releasing music in 2009, one never quite knows what he's going to do next. From super-chilled bedroom pop to slick R&B-influenced jams, his albums have covered a lot of ground. Everything he does is relaxed and smoothed-out at its core, though -- that's the one thing to count on...- Tim Sender, AllMusic.com",
+        "image": "./toro.png",
+        "id": "1",
+        "moreAboutTheArtist":  "Toro y Moi is the 12+ year project of South Carolina-reared, Bay Area-based Chaz Bear. In the wake 2008’s global economic collapse, Toro y Moi emerged as a figurehead of the beloved sub-genre widely known as chillwave, the sparkling fumes of which still heavily influence musicians all over today. Over the subsequent decade, his music and graphic design has far, far surpassed that particular designation. Across 9 albums with the great Carpark label, he has explored psych-rock, deep house, UK hip-hop; R&B and well-beyond without losing that rather iconic, bright and shimmering Toro y Moi fingerprint. As a graphic designer, Bear has collaborated with brands like Nike, Dublab and Van’s. And as a songwriter and producer, he's collaborated with other artists like Tyler, The Creator, Flume, Travis Scott, HAIM, and Tegan and Sara. His first album with Dead Oceans is in the works for 2022 — and it absolutely slaps.-deadoceans.com",
+        "imageDetail": "./tym.png"
+
+    },
+    {
+        "artist": "Fleet Foxes",
+        "colors": [
+            "blue",
+            "black",
+            "teal"
+        ],
+        "yearsActive": "2006-current",
+        "alternativeGenre": "Folk, Indie Rock",
+        "mostNotableAlbum": "Shore(2020)",
+        "aboutTheArtist": "Fleet Foxes is an American indie folk band from Seattle, WA. Led by lead singer-songwriter Robin Pecknold, the band released their fourth critically acclaimed album Shore in the fall of 2020.",
+        "image": "./ffoxes.png",
+        "id": "2",
+        "moreAboutTheArtist":  "Fleet Foxes came to prominence in 2008 with the release of their second EP Sun Giant and their eponymous debut album on Sub Pop, both of which met with widespread critical acclaim. Their second album Helplessness Blues (2011) earned further praise and became their greatest commercial success to date, reaching number 4 on the Billboard 200. Following a three-year break, Fleet Foxes reconvened in 2016 to record their third album Crack-Up, which was released the following year on Nonesuch Records. This was followed by 2020's Shore, a de facto Pecknold solo album made without the involvement of his bandmates and released through the Anti- label.  The group's work has been consistently lauded by music critics, who have praised their lyricism and production style and often noted the band's use of refined instrumentation and vocal harmonies. The band's debut album was ranked by Rolling Stone among the best of the decade and was also included in the book 1001 Albums You Must Hear Before You Die. The band has been nominated for two Grammy Awards, the first for Best Folk Album in 2012 for Helplessness Blues and the second for Best Alternative Music Album in 2022 for Shore.-wikiwand.com",
+        "imageDetail": "./fleet.png"
+   
+    },
+    {
+        "artist": "Men I Trust",
+        "colors": [
+            "orange",
+            "blue",
+            "green"
+        ],
+        "yearsActive": "2014-current",
+        "alternativeGenre": "Indie pop, Indie rock",
+        "mostNotableAlbum": "Oncle Jazz(2019)",
+        "aboutTheArtist": "Men I Trust, a Canadian indie band formed in 2014, has quietly but profoundly left its mark on the music scene.  Renowned for their hypnotic melodies and captivating vocals, the band has earned acclaim for their distinct approach to music. Self-producing their tracks, they showcase a maturity beyond their years in the industry. Men I Trust's influence extends from their evocative compositions to their understated yet compelling live performances, offering audiences a genuine and intimate musical experience...- MenITrust.com",
+        "image": "./menitrust.png",
+        "id": "3",
+        "moreAboutTheArtist": "Renowned for their hypnotic melodies and captivating vocals, Men I Trust has earned acclaim for their distinct approach to music. Self-producing their tracks, they showcase a maturity beyond their years in the industry. Men I Trust’s influence extends from their evocative compositions to their understated yet compelling live performances, offering audiences a genuine and intimate musical experience. In an era where music defies easy categorization, Men I Trust stands out for their ability to create a sound that transcends genres, shaping the indie music landscape with grace and authenticity.-billboard.com",
+        "imageDetail": "./mitab.png"
+   
+    },
+    {
+        "artist": "Faye Webster",
+        "colors": [
+            "blueviolet",
+            "aqua",
+            "white"
+        ],
+        "yearsActive": "2017-current",
+        "alternativeGenre": "Indie folk",
+        "mostNotableAlbum": "Underdressed at the Symphony",
+        "aboutTheArtist": "Atlanta-based indie singer and songwriter Faye Webster began writing rustic, country-tinged songs at age 14, and after finding an unlikely entry point into the music industry as part of a rap collective, she's forged ahead in similarity unpredictable fashion ever since. Her eponymous 2017 debut showcased her vulnerable, introspective indie folk narratives and playful character. Two more albums followed, 2019's Atlanta Millionaires Club and 2021's I Know I'm Funny haha.",
+        "image": "./Faye.png",
+        "id": "4",
+        "moreAboutTheArtist": "Webster's musical journey began at a young age, with her releasing her debut album, 'Run and Tell' at the tender age of 16. Since then, she has released four more studio albums, each showcasing her evolution as an artist and her willingness to experiment with different styles and sounds. Her most recent album, 'Underdressed at the Symphony,' further solidifies her position as a creative force in the music industry. Beyond her music, Webster's personality shines through in her various interests and hobbies. Her passion for the Atlanta Braves, her love for Pokémon and yo-yoing, and her talent for photography all contribute to her unique persona. These diverse interests add depth to her artistry and make her a relatable and intriguing figure in the music world.-stayfreeradioip.com",
+        "imageDetail": "./fayeweb.png"
+   
+    },
+    {
+        "artist": "Tokyo Tea Room",
+        "colors": [
+            "magenta",
+            "aqua",
+            "teal"
+        ],
+        "yearsActive": "2023-current",
+        "alternativeGenre": "Dream pop, Synth pop",
+        "mostNotableAlbum": "No-Rush(2025)",
+        "aboutTheArtist": " Tokyo Tea Room are the dream pop lovechild of Canterbury natives Daniel Elliott and Ben Marshall. A meeting of melodic bass, hypnotic guitar and dreamy synths form a unique sound with a soulful personality.  They started playing at their college in London, England in 2023 and have gained a large listening audience in a short amount of time.  Their debut album, No Rush was released in January, 2024 and has skyrocketed to the top indie album charts.",
+        "image": "./TTY.png",
+        "id": "5",
+        "moreAboutTheArtist": "Formed in Margate, UK, Tokyo Tea Room is a dream pop band fuelled by an impassioned quest to sonically capture life’s most relatable moments – the pangs of longing, the passage of time, and our impermanent existence. Wrapped in dreamy production, their lyrics unfurl like whispers in the ear, evoking an intimate atmosphere where listeners are alone with their thoughts, suspended in a world of echoes and impressions that verge on the hypnotic. As BBC radio championed their cause, the band catapulted to dizzying heights, grabbing the attention of 30,000 enthralled listeners each day and precipitating a frenzy of tens of millions of streams that endeared them to fans of dream pop everywhere.-famemagazine.co.uk ",
+        "imageDetail": "./tokyo.png"
+    }
+]
