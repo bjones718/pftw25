@@ -1,0 +1,106 @@
+
+.artistAltCard {
+    background:black;
+    width: 100%; 
+    max-width: 325px;
+    padding: 15px;
+    height: 800px;
+    border: 3px solid white;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: relative;
+}
+ 
+
+p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+
+}
+.cardImg img {
+    max-width: 100px;
+    width: 100px;
+}
+
+.cardTitle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: white;
+
+}
+
+
+.actions {
+width: 100%;
+margin: 10px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+
+}
+.actions a img {
+    width: 25px;
+    height: 25px;
+    
+}
+.actions a {
+    display: block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    border-radius: 5px;
+    background: black;
+}
+.actions a:hover {
+    background: hotpink;
+}
+.stripe {
+    height: 5px;
+    width: 100%;
+}
+ 
+  
+li {
+    list-style: none;
+    }
+mark {
+    background-color: hotpink;
+    color: white;
+    text-align: center;
+}
+
+.magenta {
+    background-color: magenta;
+}
+.white {
+    background-color: white;
+}
+.hotpink {
+    background-color: hotpink;
+}
+.blueviolet {
+    background-color: blueviolet;
+}
+.black {
+    background-color: black;
+}
+.blue {
+    background-color: blue;
+}
+.orange {
+    background-color: orange;
+}
+.aqua {
+    background-color: aqua;
+}
+.green {
+    background-color: green;
+}
+.teal {
+    background-color: teal;
+} 
