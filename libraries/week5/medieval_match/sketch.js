@@ -15,6 +15,7 @@ const gameState = {
 let cardfaceArray = [];
 let cardBack;
 function preload() {
+  bg = loadImage('images/castlebackground.png');
   cardBack = loadImage('images/cardback.png');
   cardfaceArray = [
     loadImage('images/Dragon.png'),
@@ -28,7 +29,7 @@ function preload() {
 
 function setup() {
   createCanvas(800, 600);
-  bg = loadImage('images/castlebackground.png');
+ 
   let selectedFaces = [];
   for (let z = 0; z < 6; z++) {
     const randomIdx = floor(random(cardfaceArray.length));
