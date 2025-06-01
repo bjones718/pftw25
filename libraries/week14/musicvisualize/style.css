@@ -1,0 +1,23 @@
+html {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+ 
+}
+
+canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+    
+}
+
+#top-banner {
+  text-align: center;
+  padding: 0pts;
+  
+}
+h2 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  fill: white;
+}
