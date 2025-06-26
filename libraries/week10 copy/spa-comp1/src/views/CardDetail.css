@@ -1,0 +1,53 @@
+ 
+
+.Link {
+    color:white;
+}
+h1 {
+    color: white;
+
+}
+ 
+h2 {
+    color: hotpink;
+    
+}
+p {
+    color: aqua;
+}
+
+.aboutText {
+    padding: 5%;
+}
+
+.detail-wrapper {
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    margin-top: -50px;
+    margin-left: -50px;
+   
+}
+
+
+.boxDetail {
+    background-color: black;
+     width: 700px;
+    height: 850px;
+    border: 3px solid white;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    position:absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+.link-styles {
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
